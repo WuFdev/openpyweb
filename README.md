@@ -14,3 +14,13 @@ def main():
 
 main()
 ```
+
+this project is not to be confused with
+```
+$ pip install openpy
+```
+we didnt even know it existed before release
+
+download version 0.0.1
+
+[download openpy0.0.1.zip](https://github.com/WuFdev/openpyweb/files/7618894/openpy0.0.1.zip)
